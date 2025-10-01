@@ -14,22 +14,6 @@ An AI-powered PowerPoint presentation generator that uses Google's Gemini API to
 - 🎯 Detailed explanations and professional formatting
 - 📐 Fixed text alignment issues in image slides
 
-## Demo Screenshots
-
-### Streamlit App Screens
-Landing page / input form:
-![Home Screen](assets/screenshots/home.png)
-
-After generating slides:
-![Generated PPT Screen](assets/screenshots/generate.png)
-
-Preview of content before exporting:
-![Slide Preview](assets/screenshots/preview.png)
-
-### Optional: Animated Workflow
-Here’s a short GIF showing the app in action:
-![App Demo](assets/demo/demo.gif)
-
 
 ## Demo PPT
 
