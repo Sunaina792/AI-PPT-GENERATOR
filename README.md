@@ -18,7 +18,7 @@ An AI-powered PowerPoint presentation generator that uses Google's Gemini API to
 
 Here’s a sample PowerPoint generated with this tool:
 
-[📂 Download Demo PPT](assets/demo_ppt/AI_Healthcare_Demo.pptx)
+[📂 Download Demo PPT](Machine_Learning_Fundamentals_presentation.pptx)
 
 ## Installation
 
