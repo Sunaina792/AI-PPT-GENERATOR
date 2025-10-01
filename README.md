@@ -14,6 +14,12 @@ An AI-powered PowerPoint presentation generator that uses Google's Gemini API to
 - 🎯 Detailed explanations and professional formatting
 - 📐 Fixed text alignment issues in image slides
 
+## Demo PPT
+
+Here’s a sample PowerPoint generated with this tool:
+
+[📂 Download Demo PPT](assets/demo_ppt/AI_Healthcare_Demo.pptx)
+
 ## Installation
 
 1. Clone the repository:
