@@ -11,7 +11,7 @@ sys.path.append(str(Path(__file__).parent))
 
 # Import your existing generator classes
 try:
-    from NEW import PPTGenerator
+    from ppt_generator import PPTGenerator
 except ImportError:
     st.error("⚠️ Could not import PPTGenerator module. Make sure main.py is in the same directory.")
     st.stop()
